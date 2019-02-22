@@ -1,3 +1,5 @@
+I will be aiming to get the config page and the wifi AP on high pin working.
+
 # bitluniHomeAutomation
 WeMos ESP8266 Arduino sketch to control pins and WS2812 led strips.
 
